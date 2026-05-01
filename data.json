@@ -1,0 +1,286 @@
+{
+  "_README": "Données du portfolio. Remplace les driveUrl 'PASTE_DRIVE_LINK_HERE' par tes vrais liens Google Drive plus tard.",
+
+  "personal": {
+    "name": "Yasser Moudarir",
+    "title": "Ingénieur Électromécanique · Performance Énergétique",
+    "tagline": "Optimisation énergétique des systèmes industriels et bâtiments tertiaires.",
+    "email": "moudariryassir@gmail.com",
+    "phone": "+33 6 05 94 76 81",
+    "linkedin": "https://www.linkedin.com/in/yasser-moudarir/",
+    "github": "https://github.com/yasser-moudarir",
+    "photo": "brand_assets/photo yasser (2).png",
+    "cv": "cv/CV YASSER FIN.pdf"
+  },
+
+  "about": {
+    "eyebrow": "// À propos",
+    "headline": "Ingénieur. Curieux. Pragmatique.",
+    "paragraph": "Élève ingénieur électromécanique (ENSAM Meknès) en Master 2 Systèmes Énergétiques Électriques à l'Université Le Havre Normandie, je conçois et optimise des systèmes industriels et tertiaires avec un cap simple : impact mesurable. De l'audit ISO 50001 d'une usine textile (56 % d'autonomie PV, ROI 703 %) au pilotage énergétique du Technopole Bouygues Telecom (algorithme TURPE 7 — 77 k€/an d'économies), je navigue du diagnostic terrain à la modélisation Python sans perdre la rigueur d'ingénieur.",
+    "stats": [
+      { "value": 3, "label": "Entreprises" },
+      { "value": 6, "label": "Projets techniques", "suffix": "+" },
+      { "value": 5, "label": "Certifications", "suffix": "+" }
+    ]
+  },
+
+  "skills": {
+    "software": [
+      { "name": "AutoCAD", "logo": "brand_assets/skills/software/AutoCad.png" },
+      { "name": "ANSYS", "logo": "brand_assets/skills/software/Ansys.png" },
+      { "name": "CATIA V5", "logo": "brand_assets/skills/software/CATIA V5.png" },
+      { "name": "Caneco BT", "logo": "brand_assets/skills/software/Caneco  BT.jpg" },
+      { "name": "PVsyst", "logo": "brand_assets/skills/software/PVsyst.jpg" },
+      { "name": "Proteus", "logo": "brand_assets/skills/software/Proteus.jpg" },
+      { "name": "Excel / Power BI", "logo": "brand_assets/skills/software/Excel.jpg" }
+    ],
+    "languages": [
+      { "name": "Python", "logo": "brand_assets/skills/languages/Python.png" },
+      { "name": "C++", "logo": "brand_assets/skills/languages/C++.png" },
+      { "name": "Java", "logo": "brand_assets/skills/languages/JAVA.jpg" },
+      { "name": "MATLAB / Simulink", "logo": "brand_assets/skills/languages/Matlab.jpg" },
+      { "name": "Arduino", "logo": "brand_assets/skills/languages/Arduino.png" },
+      { "name": "Node-RED", "logo": "brand_assets/skills/languages/NodRed.png" }
+    ]
+  },
+
+  "experiences": [
+    {
+      "logo": "Bouygues_Telecom_(alt_logo).svg.png",
+      "name": "BOUYGUES TELECOM",
+      "period": "Fév 2026 – Juil 2026",
+      "role": "Assistant ingénieur énergie & multi-technique — Meudon",
+      "driveUrl": "https://drive.google.com/drive/folders/1tc92SGErDE-uqqIZZ2haA3yF1OgQ1JO1?usp=sharing",
+      "missions": [
+        {
+          "title": "ISO 50001 — Technopole hybride",
+          "summary": "Outils de pilotage de la certification ISO 50001 d'un site mixte tertiaire + datacenter.",
+          "icon": "iso",
+          "driveUrl": "#"
+        },
+        {
+          "title": "BRVE / TOTAL EV",
+          "summary": "Dimensionnement de l'intégration de bornes IRVE aux TGBT via supervision TOTAL EV.",
+          "icon": "ev",
+          "driveUrl": "#"
+        },
+        {
+          "title": "Optimisation puissance souscrite (TURPE 7)",
+          "summary": "Algorithme Python intégrant la tarification ENEDIS — 77 k€/an d'économies pour le Technopole.",
+          "icon": "chart",
+          "driveUrl": "#"
+        },
+        {
+          "title": "Cartographie RIE",
+          "summary": "Rétro-ingénierie du TGBT pôle restauration : 160 départs cartographiés.",
+          "icon": "map",
+          "driveUrl": "#"
+        }
+      ]
+    },
+    {
+      "logo": "atlykas logo.png",
+      "name": "ATLYKAS GROUP",
+      "period": "Fév 2025 – Juil 2025",
+      "role": "Assistant ingénieur performance énergétique — Casablanca",
+      "driveUrl": "https://drive.google.com/drive/folders/1onzKdON3up-12QzIBgV2MT0jAygq5oXc?usp=sharing",
+      "missions": [
+        {
+          "title": "Audit énergétique ISO 50001 — VESTPRO",
+          "summary": "Identification des UES + Indicateurs de Performance Énergétique (IPE) sur usine textile.",
+          "icon": "audit",
+          "driveUrl": "#"
+        },
+        {
+          "title": "Centrale photovoltaïque",
+          "summary": "Conception d'une centrale PV — 56 % d'autonomie énergétique du site.",
+          "icon": "solar",
+          "driveUrl": "#"
+        },
+        {
+          "title": "Analyse technico-économique",
+          "summary": "ROI total 703 %, payback 4 ans.",
+          "icon": "money",
+          "driveUrl": "#"
+        }
+      ]
+    },
+    {
+      "logo": "ICONICS_logo-1.png",
+      "name": "ICONICS",
+      "period": "Juin 2024 – Août 2024",
+      "role": "Assistant ingénieur automaticien — Casablanca",
+      "driveUrl": "https://drive.google.com/drive/folders/1c4pQS-spKdEah3fI0ToPU4YY3-x4iiAI?usp=sharing",
+      "missions": [
+        {
+          "title": "Supervision centralisée 12 CTA",
+          "summary": "Automatisation et supervision pour exigences hospitalières.",
+          "icon": "automate",
+          "driveUrl": "#"
+        },
+        {
+          "title": "Programmation SIEMENS + IHM",
+          "summary": "2 automates SIEMENS, régulation PID, développement d'une IHM.",
+          "icon": "pid",
+          "driveUrl": "#"
+        }
+      ]
+    },
+    {
+      "logo": "watt-elec-reseaux-ma-logo.jpg",
+      "name": "WATT-ELEC RÉSEAUX",
+      "period": "Juin 2023 – Août 2023",
+      "role": "Assistant Ingénieur Électricité — Études et Travaux",
+      "driveUrl": "https://drive.google.com/drive/folders/1gqSNym0dSMt7VXhbCAIIZMlkAnjeu-JE?usp=sharing",
+      "missions": [
+        {
+          "title": "Études électriques par chambre type",
+          "summary": "Étude et dimensionnement de circuits électriques par chambre type, avec des protections selon la norme NF C 15-100.",
+          "icon": "automate",
+          "driveUrl": "#"
+        },
+        {
+          "title": "Suivi technique chantier",
+          "summary": "Suivi technique sur 2 chantiers avec l'élaboration des plans d'exécution et validation de la conformité des installations.",
+          "icon": "automate",
+          "driveUrl": "#"
+        }
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "image": "https://placehold.co/640x480/0a0a0f/00d9ff/png?text=Palan+%C3%89lectrique",
+      "title": "Conception d'un palan électrique",
+      "summary": "Étude et dimensionnement complet d'un palan électrique industriel.",
+      "tags": ["Mécanique", "Électrique", "Conception"],
+      "driveUrl": "https://drive.google.com/drive/folders/1Dc_pJNmJZApc8Ui1HWNlPKnwzofH5Dnf?usp=drive_link"
+    },
+    {
+      "image": "https://placehold.co/640x480/0a0a0f/00d9ff/png?text=%C3%89olienne+ANSYS",
+      "title": "Conception d'une éolienne tripale",
+      "summary": "Simulation numérique complète sous ANSYS — dimensionnement aérodynamique et structurel.",
+      "tags": ["Énergie renouvelable", "ANSYS", "Mécanique"],
+      "driveUrl": "https://drive.google.com/drive/folders/1r74GdBaUqSe5gKagA0TrhZ8IyE1tbeLa?usp=sharing"
+    },
+    {
+      "image": "https://placehold.co/640x480/0a0a0f/00d9ff/png?text=Convoyeur+OCP",
+      "title": "Convoyeur industriel OCP",
+      "summary": "Conception et dimensionnement d'un convoyeur industriel — gestion complète du projet.",
+      "tags": ["Industriel", "Schémas", "AutoCAD"],
+      "driveUrl": "https://drive.google.com/drive/folders/1HxHO3frTIG2_MDn9GKJiySqBW-DJoNgl?usp=sharing"
+    },
+    {
+      "image": "https://placehold.co/640x480/0a0a0f/00d9ff/png?text=Relais+%26+Accessoires",
+      "title": "Relais d'accessoire d'avion",
+      "summary": "Conception et dimensionnement d'un relais d'accessoire d'avion.",
+      "tags": ["Électrique", "Aéronautique"],
+      "driveUrl": "https://drive.google.com/drive/folders/1OWB_Of1anr7k_s6sQuABh6NOVXkeltX-?usp=sharing"
+    },
+    {
+      "image": "brand_assets/projects/robotique-industrielle.jpg",
+      "title": "Robotique industrielle",
+      "summary": "Modélisation cinématique, jacobienne et trajectoire d'un bras robotisé sous Matlab.",
+      "tags": ["Robotique", "Matlab", "Cinématique"],
+      "driveUrl": "https://drive.google.com/drive/folders/1qeTHKI04XYJFnNlZjGIglDFM0XD_J-Gi?usp=sharing"
+    },
+    {
+      "image": "https://placehold.co/640x480/0a0a0f/00d9ff/png?text=Indicateur+de+Niveau",
+      "title": "Indicateur de niveau pour réservoir",
+      "summary": "Conception et réalisation d'un indicateur de niveau (microcontrôleur, Proteus).",
+      "tags": ["Électronique", "Proteus", "Microcontrôleur"],
+      "driveUrl": "#"
+    }
+  ],
+
+  "education": [
+    {
+      "period": "Sept 2025 – Juin 2026",
+      "logo": "le havre logo.png",
+      "diploma": "Master 2 — Systèmes Énergétiques Électriques (SEE)",
+      "school": "Université Le Havre Normandie",
+      "specialization": "UFR Sciences et Techniques · Le Havre, France",
+      "description": "Spécialisation systèmes énergétiques électriques, performance énergétique des sites tertiaires et industriels.",
+      "isCurrent": true
+    },
+    {
+      "period": "Sept 2020 – Juin 2025",
+      "logo": "New_logo_AM.svg.png",
+      "diploma": "Diplôme d'Ingénieur d'État — Génie Électromécanique",
+      "school": "École Nationale Supérieure d'Arts et Métiers (ENSAM)",
+      "specialization": "Énergie & maintenance · Meknès, Maroc",
+      "description": "Cursus d'ingénieur en électromécanique avec spécialisation énergie et maintenance industrielle.",
+      "isCurrent": false
+    }
+  ],
+
+  "certifications": [
+    {
+      "image": "certifications professionnelles/AI Fluency Framework & Foundations/Capture d’écran 2026-04-12 171959.png",
+      "title": "AI Fluency Framework & Foundations",
+      "issuer": "Anthropic",
+      "year": "2025",
+      "verifyUrl": "https://verify.skilljar.com/c/9dy6vpwwncam",
+      "featured": true
+    },
+    {
+      "image": "certifications professionnelles/Claude 101/Capture d’écran 2026-04-12 094921.png",
+      "title": "Claude 101",
+      "issuer": "Anthropic",
+      "year": "2025",
+      "verifyUrl": "https://verify.skilljar.com/c/vqfnpiq9mz4r",
+      "featured": true
+    },
+    {
+      "image": "certifications professionnelles/Accelerate Your Job Search with AI/Accelerate Your Job Search with AI.png",
+      "title": "Accelerate Your Job Search with AI",
+      "issuer": "Google · Coursera",
+      "year": "2025",
+      "verifyUrl": "https://coursera.org/verify/RCVBELF1W5R1",
+      "featured": true
+    },
+    {
+      "image": "certifications professionnelles/Foundations of Project Management/Foundations of Project Management.png",
+      "title": "Foundations of Project Management",
+      "issuer": "Google · Coursera",
+      "year": "2024",
+      "verifyUrl": "https://coursera.org/verify/OXHX4VF8DVG4"
+    },
+    {
+      "image": "certifications professionnelles/Project Initiation - Starting a Successful Project/Project Initiation - Starting a Successful Project.png",
+      "title": "Project Initiation — Starting a Successful Project",
+      "issuer": "Google · Coursera",
+      "year": "2024",
+      "verifyUrl": "https://coursera.org/verify/MYJ9GBN7Z988"
+    },
+    {
+      "image": "certifications professionnelles/Project Planning - Putting It All Together/Project Planning - Putting It All Together.png",
+      "title": "Project Planning — Putting It All Together",
+      "issuer": "Google · Coursera",
+      "year": "2024",
+      "verifyUrl": "https://coursera.org/verify/RZFDQXX9YL4E"
+    },
+    {
+      "image": "certifications professionnelles/Project Execution - Running the Project/Project Execution - Running the Project.png",
+      "title": "Project Execution — Running the Project",
+      "issuer": "Google · Coursera",
+      "year": "2024",
+      "verifyUrl": "https://coursera.org/verify/O6Q4MK45EF8V"
+    },
+    {
+      "image": "certifications professionnelles/Agile Project Management/Agile Project Management.png",
+      "title": "Agile Project Management",
+      "issuer": "Google · Coursera",
+      "year": "2024",
+      "verifyUrl": "https://coursera.org/verify/3XRMTLHJ0Z00"
+    },
+    {
+      "image": "certifications professionnelles/Capstone - Applying Project Management in the Real World/Capstone - Applying Project Management in the Real World.png",
+      "title": "Capstone — Applying Project Management in the Real World",
+      "issuer": "Google · Coursera",
+      "year": "2024",
+      "verifyUrl": "https://coursera.org/verify/NMSVPWRUKIHB"
+    }
+  ]
+}

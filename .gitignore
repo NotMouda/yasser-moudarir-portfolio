@@ -1,0 +1,11 @@
+.claude/settings.local.json
+temporary screenshots/
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+
+# Sources des projets academiques (486 MB de modeles 3D / code source)
+# non utilises par le site web. L'image utilisee a ete copiee dans
+# brand_assets/projects/.
+Projets academiques/

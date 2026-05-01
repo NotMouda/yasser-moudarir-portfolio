@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node screenshot.mjs http://localhost:3000 about --viewport=1440x900 --section=#about --wait=2000)",
+      "Bash(node screenshot.mjs http://localhost:3000 skills --viewport=1440x900 --section=#skills --wait=2000)",
+      "Bash(node screenshot.mjs http://localhost:3000 exp --viewport=1440x900 --section=#experience --wait=2000)",
+      "Bash(node screenshot.mjs http://localhost:3000 proj --viewport=1440x900 --section=#projects --wait=2500)",
+      "Bash(node screenshot.mjs http://localhost:3000 acad --viewport=1440x900 --section=#academic --wait=2500)",
+      "Bash(node screenshot.mjs http://localhost:3000 certs --viewport=1440x900 --section=#certs --wait=2500)",
+      "Bash(node screenshot.mjs http://localhost:3000 contact --viewport=1440x900 --section=#contact --wait=2500)",
+      "Bash(node screenshot.mjs http://localhost:3000 exp2 --viewport=1440x900 --section=#experience --wait=2500)",
+      "Bash(node screenshot.mjs http://localhost:3000 contact2 --viewport=1440x900 --scroll=8500 --wait=2500)",
+      "Bash(node screenshot.mjs http://localhost:3000 contact3 --viewport=1440x900 --scroll=12000 --wait=2500)",
+      "Bash(node screenshot.mjs http://localhost:3000 contactCards --viewport=1440x900 --scroll=13800 --wait=2500)",
+      "Bash(node screenshot.mjs http://localhost:3000 contactCards2 --viewport=1440x900 --scroll=14600 --wait=2500)",
+      "Bash(node screenshot.mjs http://localhost:3000 hero-final --viewport=1440x900 --wait=14000)",
+      "Bash(node screenshot.mjs http://localhost:3000 contact-final --viewport=1440x900 --section=#contact --scroll=14600 --wait=2500)",
+      "Bash(node screenshot.mjs http://localhost:3000 contact-cards --viewport=1440x900 --scroll=15400 --wait=2500)",
+      "Bash(node screenshot.mjs http://localhost:3000 contact-cards2 --viewport=1440x1200 --section=#contact --scroll=600 --wait=2500)",
+      "Bash(node screenshot.mjs http://localhost:3000 contact-final2 --viewport=1440x1200 --section=#contact --scroll=400 --wait=3500)",
+      "Bash(node screenshot.mjs http://localhost:3000 contact-final3 --viewport=1440x1400 --section=#contact --wait=4000)",
+      "Bash(node screenshot.mjs http://localhost:3000 bottom --viewport=1440x900 --scroll=99999 --wait=4000)",
+      "Bash(curl -s http://localhost:3000/data.json)",
+      "Bash(node -e ' *)",
+      "Bash(node screenshot.mjs http://localhost:3000 full --viewport=1440x900 --section=#contact --scroll=2000 --wait=4000)",
+      "Bash(node screenshot.mjs http://localhost:3000 cc --viewport=1440x1400 --scroll=99999 --wait=5000)"
+    ]
+  }
+}
